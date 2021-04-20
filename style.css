@@ -22,7 +22,7 @@ div{
     box-sizing: border-box;
 }
 header{
-    background: url(../mountains/big_mountain_back.png)
+    background: url(big_mountain_back.png)
     no-repeat center top;
     background-size:  cover;
     height: 750px;
